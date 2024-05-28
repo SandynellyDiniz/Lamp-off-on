@@ -9,6 +9,8 @@
 
 <h3 align="center">Lamp On</h3>
 
+![Captura de tela 2024-05-28 174818](https://github.com/SandynellyDiniz/Lamp-off-on/assets/160080540/192069d6-4c5d-4b0f-95ed-871968e6d06e)
+
 <h3 align="center">Lamp Off</h3>
 
 <h3 align="center">Lamp Broken</h3>
